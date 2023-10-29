@@ -6,3 +6,6 @@ Planned tech stack for this project is:
 - TS
 - HTML and CSS
 - React framework 
+
+Diagram for how board is built 
+![Diagrm for how board is built](image.png)
